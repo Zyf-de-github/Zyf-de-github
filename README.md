@@ -7,31 +7,31 @@
 <p align="center">
   <!-- Language -->
   🖥️ <strong>Language:</strong>
-  <img src="https://img.shields.io/badge/language-C/C++-blue" alt="C++"/>
-  <img src="https://img.shields.io/badge/language-Python-blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/C/C++-blue" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-blue" alt="Python"/>
 </p>
 
 <p align="center">
   <!-- Tools -->
   🛠️ <strong>Tools:</strong>
-  <img src="https://img.shields.io/badge/tools-Qt-yellow" alt="Qt"/>
-  <img src="https://img.shields.io/badge/tools-LVGL-yellow" alt="LVGL"/>
-  <img src="https://img.shields.io/badge/tools-FreeRTOS-yellow" alt="FreeRTOS"/>
+  <img src="https://img.shields.io/badge/Qt-yellow" alt="Qt"/>
+  <img src="https://img.shields.io/badge/LVGL-yellow" alt="LVGL"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-yellow" alt="FreeRTOS"/>
 </p>
 
 <p align="center">
   <!-- Platform / Hardware -->
   🏗️ <strong>Platform / Hardware:</strong>
-  <img src="https://img.shields.io/badge/platform-STM32-green" alt="STM32"/>
-  <img src="https://img.shields.io/badge/platform-ESP32-green" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/platform-FPGA-green" alt="FPGA"/>
+  <img src="https://img.shields.io/badge/STM32-green" alt="STM32"/>
+  <img src="https://img.shields.io/badge/ESP32-green" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/FPGA-green" alt="FPGA"/>
 </p>
 
 <p align="center">
   <!-- Learning -->
   📚 <strong>Learning:</strong>
-  <img src="https://img.shields.io/badge/learning-Linux-pink" alt="Linux"/>
-  <img src="https://img.shields.io/badge/learning-ROS2-pink" alt="ROS2"/>
+  <img src="https://img.shields.io/badge/Linux-pink" alt="Linux"/>
+  <img src="https://img.shields.io/badge/ROS2-pink" alt="ROS2"/>
 </p>
 
 ---
