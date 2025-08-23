@@ -7,32 +7,56 @@
 <p align="center">
   <!-- Language -->
   🖥️ <strong>Language:</strong>
-  <img src="https://img.shields.io/badge/C/C++-blue" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-blue" alt="Python"/>
+  <a href="https://www.runoob.com/cplusplus/cpp-tutorial.html">
+    <img src="https://img.shields.io/badge/C/C++-blue" alt="C++"/>
+  </a>
+  <a href="https://www.runoob.com/python3/python3-tutorial.html">
+    <img src="https://img.shields.io/badge/Python-blue" alt="Python"/>
+  </a>
+  <a href="https://www.runoob.com/w3cnote/verilog-tutorial.html">
+    <img src="https://img.shields.io/badge/verilog-blue" alt="verilog"/>
+  </a>
 </p>
 
 <p align="center">
   <!-- Tools -->
   🛠️ <strong>Tools:</strong>
-  <img src="https://img.shields.io/badge/Qt-yellow" alt="Qt"/>
-  <img src="https://img.shields.io/badge/LVGL-yellow" alt="LVGL"/>
-  <img src="https://img.shields.io/badge/FreeRTOS-yellow" alt="FreeRTOS"/>
+  <a href="https://doc.qt.io/">
+    <img src="https://img.shields.io/badge/Qt-yellow" alt="Qt"/>
+  </a>
+  <a href="https://docs.lvgl.io/master/">
+    <img src="https://img.shields.io/badge/LVGL-yellow" alt="LVGL"/>
+  </a>
+  <a href="https://www.freertos.org/zh-cn-cmn-s/Documentation/00-Overview">
+    <img src="https://img.shields.io/badge/FreeRTOS-yellow" alt="FreeRTOS"/>
+  </a>
 </p>
 
 <p align="center">
   <!-- Platform / Hardware -->
   🏗️ <strong>Platform / Hardware:</strong>
-  <img src="https://img.shields.io/badge/STM32-green" alt="STM32"/>
-  <img src="https://img.shields.io/badge/ESP32-green" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/FPGA-green" alt="FPGA"/>
+  <a href="http://47.111.11.73/docs/boards/stm32/zdyz_stm32f407_explorerV3.html">
+    <img src="https://img.shields.io/badge/STM32-green" alt="STM32"/>
+  </a>
+  <a href="https://idf.espressif.com/zh-cn/index.html">
+    <img src="https://img.shields.io/badge/ESP32-green" alt="ESP32"/>
+  </a>
+  <a href="http://47.111.11.73/docs/boards/fpga/zdyz_dafenqi.html">
+    <img src="https://img.shields.io/badge/FPGA-green" alt="FPGA"/>
+  </a>
 </p>
 
 <p align="center">
   <!-- Learning -->
   📚 <strong>Learning:</strong>
-  <img src="https://img.shields.io/badge/Linux-pink" alt="Linux"/>
-  <img src="https://img.shields.io/badge/ROS2-pink" alt="ROS2"/>
+  <a href="https://linux.100ask.net/">
+    <img src="https://img.shields.io/badge/Linux-pink" alt="Linux"/>
+  </a>
+  <a href="http://dev.ros2.fishros.com/doc/">
+    <img src="https://img.shields.io/badge/ROS2-pink" alt="ROS2"/>
+  </a>
 </p>
+
 
 ---
 
