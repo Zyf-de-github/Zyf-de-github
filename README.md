@@ -86,6 +86,10 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zyf-de-github&theme=radical&repo=fpga-stm32-Industrial-Sorting" 
          alt="FPGA STM32 Industrial Sorting" width="300" height="120"/>
   </a>
+  <a href="https://github.com/Zyf-de-github/aerial_warfare.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zyf-de-github&theme=radical&repo=aerial_warfare" 
+         alt="Aerial Warfare" width="300" height="120"/>
+  </a>
 </p>
 
 ---
