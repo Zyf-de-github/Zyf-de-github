@@ -78,6 +78,10 @@
 ### 📌 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/Zyf-de-github/RoboMaster-embedded-2026">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zyf-de-github&theme=radical&repo=RoboMaster-embedded-2026" 
+         alt="RoboMaster UAV embedded" width="300" height="120"/>
+  </a>
   <a href="https://github.com/Zyf-de-github/stm32-Mining-Robot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zyf-de-github&theme=radical&repo=stm32-Mining-Robot" 
          alt="STM32 Mining Robot" width="300" height="120"/>
@@ -86,7 +90,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zyf-de-github&theme=radical&repo=fpga-stm32-Industrial-Sorting" 
          alt="FPGA STM32 Industrial Sorting" width="300" height="120"/>
   </a>
-  <a href="https://github.com/Zyf-de-github/aerial_warfare.git">
+  <a href="https://github.com/Zyf-de-github/aerial_warfare">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zyf-de-github&theme=radical&repo=aerial_warfare" 
          alt="Aerial Warfare" width="300" height="120"/>
   </a>
